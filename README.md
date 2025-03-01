@@ -22,8 +22,6 @@
 
 Sempre aberto a oportunidades, colaborações e novos aprendizados! 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio0212)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://www.instagram.com/kaio_ccastro">
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
