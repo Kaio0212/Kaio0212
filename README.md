@@ -21,9 +21,3 @@
 - 💼 LinkedIn: www.linkedin.com/in/kaio-victor-castro
 
 Sempre aberto a oportunidades, colaborações e novos aprendizados! 🚀
-
-<a href="https://www.instagram.com/kaio_ccastro">
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
-<a href="www.linkedin.com/in/kaio-victor-castro">
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
